@@ -1,7 +1,7 @@
 from flask import Flask, request, render_template
 import openai
 
-openai.api_key = "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"
+openai.api_key = "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"
 
 roles = [
     'AssistAI | AI medicine chatbot to help user get health',
