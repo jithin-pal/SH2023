@@ -1,0 +1,21 @@
+
+<html>
+<head><title>AssistAI</title></head>
+<h1>AI based medical assistant</h1></body>
+<img src="static/assisai.gif">
+
+<form method="POST">
+   
+    <label>Enter your issue... :</label><br>
+
+    <textarea id="text_input" name="text_input" rows="5" cols="50"></textarea><br>
+
+    Role: <select id="dropdown" name="role" value={f}dropdown_input{/f}> 
+    </select>
+    <br><br>
+    </select><input type="hidden" id="history" name="history" value="{chat_history}"><br><br>
+    <button type="submit" name="button_text" value="submit">Submit</button>
+    <button type="submit" name="button_text" value="clear">Clear Chat history</button>
+</form>
+<br> {f}chat_history_html_formatted{/f}
+</html>
