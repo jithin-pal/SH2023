@@ -1,7 +1,8 @@
 # Flutter End-to-End Adavanced application to connect patients with pharmacies. 
 
 Note: The chat application right now is not stable in the mobile application, so we have made a web application that works better. Here is a picture of working: 
-<img width="1680" alt="Screenshot 2023-03-24 at 04 24 32" src="https://user-images.githubusercontent.com/44967770/227476052-f6377f0f-dcf1-497a-b542-b84de8b29df8.png">
+
+<img width="1497" alt="Screenshot 2023-03-24 at 10 22 04" src="https://user-images.githubusercontent.com/44967770/227478361-7d8ff9fc-da1f-4ece-9bf2-ba42e3f72419.png">
 
 The functionalities we wanted to develop:
 
